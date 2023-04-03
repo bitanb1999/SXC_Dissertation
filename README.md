@@ -3,9 +3,9 @@
 ### Bitan Biswas, Souptik Dam & Tanmoy Dutta
 
 #### Research Highlights:
-Highlighting the possibility of using state-of-the-art(SOTA) Natural Language Processing(NLP) techniques in social causes such as forming mental health prognosis of people on social media
-Devising a simple pipeline to parse and detect early signs of depression in people by analyzing their activities on various free speech platforms and visualizing the model learnings.
-Analysis of the various SOTA transformer models and examining their accuracy in assisting in depression detection, to gain medical trustability in AI-powered technology.
+<li> Highlighting the possibility of using state-of-the-art(SOTA) Natural Language Processing(NLP) techniques in social causes such as forming mental health prognosis of people on social media
+<li> Devising a simple pipeline to parse and detect early signs of depression in people by analyzing their activities on various free speech platforms and visualizing the model learnings.
+<li> Analysis of the various SOTA transformer models and examining their accuracy in assisting in depression detection, to gain medical trustability in AI-powered technology.
 
 #### Abstract:
 Depression is a common mental illness that involves sadness and a lack of interest in all day-to-day activities. Detecting depression is important since it has to be observed and treated at an early stage to avoid severe consequences. The rise of social media as one of humanity’s most crucial public communication platforms presents a potential prospect for early identification and management of mental illness.
